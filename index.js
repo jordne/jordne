@@ -1,0 +1,1 @@
+alert("This is an alert that I created in index.js!");
