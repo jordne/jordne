@@ -1,1 +1,1 @@
-alert("This is an alert that I created in index.js!");
+alert("This is an alert I created in index.js!");
